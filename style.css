@@ -1,5 +1,6 @@
 body {
     background-color: #CDECC8;
+    font-family: "Roboto", Courier, monospace;
 }
 
 header {
@@ -12,4 +13,10 @@ h1 {
     color: white;
     background-color: #c70000;
     padding: 10px;
+}
+
+.spinner-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
