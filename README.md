@@ -4,7 +4,10 @@ A simple javascript website that has a randomised spinning wheel to randomly sel
 
 ## To Do
 
-- Create main spinner
-- Add animations to spinner
-- Allow users to add or remove players to the spinner
-- Option to exclude a player from a spin
+- Functionality
+  - Allow users to add or remove players to the spinner
+    - Game icons as button to indicate what players to include
+  - Text pop up of the spin result
+  - Option to exclude a player from a spin
+- Styling
+  - Add animations to spinner
